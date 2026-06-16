@@ -20,3 +20,7 @@ Assim que o Git for inicializado precisamo indicar os arquivos que devem ser ras
 git add nomeDoArquivo.js
 
 Quando os arquivos que foram adicionados para a área de preparação são modificados, você verá algumas indicações no VSCode em forma de letras ao lado do nome do arquivo e alguns indicadores de cor ao lado de linhas alteradas.
+
+## 10/06/2026
+
+git add *
