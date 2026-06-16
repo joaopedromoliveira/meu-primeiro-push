@@ -17,7 +17,7 @@ git add anotacao.md
 Para iniciar o Git em uma pasta devemos abrir o terminal nela e digitar o comando de inicialização do Git:
 git init
 
-Assim que o Git for inicializado precisamo indicar os arquivos que devem ser rastreados. Para isso utilizaremos o comando:
+Assim que o Git for inicializado precisamos indicar os arquivos que devem ser rastreados. Para isso utilizaremos o comando:
 git add nomeDoArquivo.js
 
 Quando os arquivos que foram adicionados para a área de preparação são modificados, você verá algumas indicações no VSCode em forma de letras ao lado do nome do arquivo e alguns indicadores de cor ao lado de linhas alteradas.
